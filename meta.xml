@@ -1,0 +1,4 @@
+<meta>
+     <info author="github.com/xMin3S" version="0.1" type="script" name="SimpleSpawnTP" />
+     <script src="server.lua" type="server" />
+</meta>
